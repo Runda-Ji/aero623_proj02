@@ -1,0 +1,8 @@
+﻿  proj2.cpp
+c:\users\runda\desktop\code\20190210_second_order\pre_calculation.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\runda\desktop\code\20190210_second_order\pre_calculation.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\runda\desktop\code\20190210_second_order\time_iteration.cpp(254): warning C4101: 'j': unreferenced local variable
+c:\users\runda\desktop\code\20190210_second_order\proj2.cpp(43): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\runda\desktop\code\20190210_second_order\proj2.cpp(114): warning C4101: 'U_star': unreferenced local variable
+  proj2.vcxproj -> C:\Users\runda\Desktop\code\20190210_second_order\Debug\proj2.exe
+  proj2.vcxproj -> C:\Users\runda\Desktop\code\20190210_second_order\Debug\proj2.pdb (Full PDB)
