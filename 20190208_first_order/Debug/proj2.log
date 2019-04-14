@@ -1,0 +1,6 @@
+﻿  proj2.cpp
+c:\users\runda\desktop\code\20190208_first_order\pre_calculation.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\runda\desktop\code\20190208_first_order\pre_calculation.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\runda\desktop\code\20190208_first_order\proj2.cpp(99): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  proj2.vcxproj -> C:\Users\runda\Desktop\code\20190208_first_order\Debug\proj2.exe
+  proj2.vcxproj -> C:\Users\runda\Desktop\code\20190208_first_order\Debug\proj2.pdb (Full PDB)
